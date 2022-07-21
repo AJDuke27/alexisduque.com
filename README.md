@@ -1,5 +1,3 @@
-# Godocs Documentation Template
-
 ![godocs](https://demo.themefisher.com/thumbnails/godocs.png)
 
 <!-- download -->
